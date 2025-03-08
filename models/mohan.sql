@@ -1,0 +1,1 @@
+select * from mohan.practice.emp where sal>2000
